@@ -38,10 +38,6 @@ class MusicLibraryController
         play_song
       end
     end
-
-     
-    
-
   end #call
 
     #"1. Thundercat - For Love I Come - dance"
